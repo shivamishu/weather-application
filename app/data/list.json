@@ -1,0 +1,196 @@
+{
+  "weathermap": [
+    {
+      "end_address": "Concord, MA, USA",
+      "end_location": {
+        "lat": 42.460387,
+        "lng": -71.3489306
+      },
+      "weather": {
+        "coord": {
+          "lon": 139.01,
+          "lat": 35.02
+        },
+        "weather": [
+          {
+            "id": 800,
+            "main": "Clear",
+            "description": "Clear Sky",
+            "icon": "01n"
+          }
+        ],
+        "base": "stations",
+        "main": {
+          "temp": "72.5 ",
+          "pressure": 1013.75,
+          "humidity": "94",
+          "temp_min": "60.5 ",
+          "temp_max": "80.5 ",
+          "sea_level": 1023.22,
+          "grnd_level": 1013.75
+        },
+        "wind": {
+          "speed": "5.52 ",
+          "deg": 311
+        },
+        "clouds": {
+          "all": 0
+        },
+        "dt": 1485792967,
+        "sys": {
+          "message": 0.0025,
+          "country": "JP",
+          "sunrise": 1485726240,
+          "sunset": 1485763863
+        },
+        "id": 1907296,
+        "name": "Tawarano",
+        "cod": 200
+      }
+    },
+    {
+      "start_address": "Lexington, MA, USA",
+      "start_location": {
+        "lat": 42.4473497,
+        "lng": -71.2271531
+      },
+      "weather": {
+        "coord": {
+          "lon": 139.01,
+          "lat": 35.02
+        },
+        "weather": [
+          {
+            "id": 800,
+            "main": "Clear",
+            "description": "Clear Sky",
+            "icon": "01n"
+          }
+        ],
+        "base": "stations",
+        "main": {
+          "temp": "79.5 ",
+          "pressure": 1013.75,
+          "humidity": "84",
+          "temp_min": "57.5 ",
+          "temp_max": "84.5 ",
+          "sea_level": 1023.22,
+          "grnd_level": 1013.75
+        },
+        "wind": {
+          "speed": "5.20 ",
+          "deg": 311
+        },
+        "clouds": {
+          "all": 0
+        },
+        "dt": 1485792967,
+        "sys": {
+          "message": 0.0025,
+          "country": "JP",
+          "sunrise": 1485726240,
+          "sunset": 1485763863
+        },
+        "id": 1907296,
+        "name": "Tawarano",
+        "cod": 200
+      }
+    },
+    {
+      "start_address": "Charlestown, Boston, MA, USA",
+      "start_location": {
+        "lat": 42.3781732,
+        "lng": -71.06024889999999
+      },
+      "weather": {
+        "coord": {
+          "lon": 139.01,
+          "lat": 35.02
+        },
+        "weather": [
+          {
+            "id": 800,
+            "main": "Clear",
+            "description": "Clear Sky",
+            "icon": "01n"
+          }
+        ],
+        "base": "stations",
+        "main": {
+          "temp": "70.5 ",
+          "pressure": 1013.75,
+          "humidity": "85",
+          "temp_min": "59.5 ",
+          "temp_max": "80.5 ",
+          "sea_level": 1023.22,
+          "grnd_level": 1013.75
+        },
+        "wind": {
+          "speed": "4.55 ",
+          "deg": 311
+        },
+        "clouds": {
+          "all": 0
+        },
+        "dt": 1485792967,
+        "sys": {
+          "message": 0.0025,
+          "country": "JP",
+          "sunrise": 1485726240,
+          "sunset": 1485763863
+        },
+        "id": 1907296,
+        "name": "Tawarano",
+        "cod": 200
+      }
+    },
+    {
+      "start_address": "Boston, MA, USA",
+      "start_location": {
+        "lat": 42.3598335,
+        "lng": -71.05987759999999
+      },
+      "weather": {
+        "coord": {
+          "lon": 139.01,
+          "lat": 35.02
+        },
+        "weather": [
+          {
+            "id": 800,
+            "main": "Rain",
+            "description": "Heavy Rain",
+            "icon": "01n"
+          }
+        ],
+        "base": "stations",
+        "main": {
+          "temp": "70.1 ",
+          "pressure": 1013.75,
+          "humidity": "80",
+          "temp_min": "57.5 ",
+          "temp_max": "84.5 ",
+          "sea_level": 1023.22,
+          "grnd_level": 1013.75
+        },
+        "wind": {
+          "speed": "5.20 ",
+          "deg": 311
+        },
+        "clouds": {
+          "all": 0
+        },
+        "dt": 1485792967,
+        "sys": {
+          "message": 0.0025,
+          "country": "JP",
+          "sunrise": 1485726240,
+          "sunset": 1485763863
+        },
+        "id": 1907296,
+        "name": "Tawarano",
+        "cod": 200
+      }
+    }
+  ]
+}
