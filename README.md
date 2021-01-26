@@ -6,7 +6,7 @@ Developed a weather application to show current weather and forecast for a parti
 
 Date: 06 December 2019
 This is a first handson NodeJS project
-This project was not checked to my git repo ear;ier.
+This project was not checked to my git repo earlier.
 A lot of shortcuts were used, please do not follow them. Its just a handson PoC.
 
 # install dependencies
